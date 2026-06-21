@@ -12,3 +12,14 @@ Phase 1 Features
 6. CSS Styling
 7. JavaScript
 8. Student Information
+
+Phase 2 Features
+
+1. Dashboard Page
+2. Quiz Page
+3. Progress Page
+4. Notifications Page
+5. Dashboard CSS
+6. Dashboard JavaScript
+7. Progress Tracker Python Program
+8. Attendance Checker C Program
