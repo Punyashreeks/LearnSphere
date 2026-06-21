@@ -1,0 +1,6 @@
+Name : Student
+USN : 12345
+Course : BTech CSE
+Semester : 2
+Email : student@gmail.com
+Phone : 9876543210
